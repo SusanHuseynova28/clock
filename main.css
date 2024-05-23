@@ -1,0 +1,21 @@
+body,html {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+} 
+.clockTime {
+    background: rgb(140, 66, 123);
+    font-size: 150px;
+    color: white;
+    border-radius: 12px;
+    padding: 30px 60px;
+    box-shadow: 0 0 40px black;
+    
+}
